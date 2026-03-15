@@ -1,46 +1,46 @@
 slider:
   images:
+    - /images/hero/showroom-design.jpg
     - /images/hero/onlinee-merchandising.jpg
     - /images/hero/event-planning.jpg
-    - /images/hero/showroom-design.jpg
     - /images/hero/team.jpg
   interval_ms: 4000
 
 banner:
-  title: "CMM Business, Specialists in Business Consultancy"
-  lead: "CMM Business offers a diverse portfolio of services, to promote the interests of your enterprise and ensure its continued and snowballing success. These cover three key and complementary specialisms: showroom design, online merchandising, and event planning."
+  title: "SLCC Global — Specialists in Business Consultancy"
+  lead: "SLCC Global provides a focused range of consultancy services designed to strengthen brand presence and support sustainable business growth. Our core areas of expertise include showroom design, merchandising, and event planning. Through a combination of strategic insight and practical implementation, we help organisations create environments and experiences that present their products effectively and engage their customers."
   image: /images/hero2.png
 
 about_us:
   title: "About Us"
-  image: "/images/business_consultancy.png"
+  image: "/images/business_consultancy.jpg"
   paragraphs:
-    - "As a business consultancy company at the top of our game, CMM Business are proud to be showroom design, merchandising, and event planning specialists, who consistently deliver exceptional results for our many valued clients."
-    - "Using our extensive industry experience and combined talents, our team make it their mission to identify the unique needs of each of the companies that approach us, and ensure that these are met in full."
-    - "Results-driven, we are only satisfied when you are too, which is why we strongly believe in working together and taking your input on board every step of the way, to secure a successful outcome to our combined endeavour."
-    - "Committed to advancing the interests of your company through our efforts, we promise always to work hard, offer effective and innovative solutions, and deliver a service that you’re entirely happy with."
-    - "With plenty of satisfied clients to vouch for us, why not put your trust in us today?"
+    - "SLCC Global is a business consultancy specialising in showroom design, merchandising, and event planning. We work with companies across multiple industries to help them present their products and brands more effectively."
+    - "Our team combines practical industry experience with strategic thinking to understand the specific needs of each client and develop solutions that support their commercial objectives."
+    - "We believe that successful projects are built on collaboration. By working closely with our clients throughout the process, we ensure that each solution reflects both operational realities and long-term business goals."
+    - "Our approach is focused on delivering practical, well-structured outcomes that create measurable value for the organisations we work with."
+    - "With a growing portfolio of satisfied clients, we continue to support businesses seeking to strengthen their brand presence and customer experience."
 
 clients:
   title: "Our Clients"
   paragraphs:
-    - "At CMM Business, we understand that clients are the backbone of any successful business, which is why we value ours so highly. Our primary focus is on promoting their causes and advancing their enterprises, so that they have the opportunity to grow and prosper with a little help from us."
-    - "Whatever their needs, we make it our mission to meet them. From showroom design to merchandising to event planning, we are masters of our art, and we believe that it’s only fair to use our skill and expertise to their advantage, which is why we do so each and every day."
-    - "With our previous clients having come from diverse business backgrounds, we have the necessary experience to help any and all companies with everything from retail enterprises to automotive and hospitality ventures, having benefited from our aid and assistance."
-    - "We could help you too. Treating each and every one of our clients as individuals, we take pains to identify and understand your unique needs, and will deliver a package perfectly tailored to you should you choose to approach us."
-    - "To learn more about what we could do for your company, simply get in touch with us today."
+    - "At SLCC Global, our clients are at the centre of everything we do. Our work focuses on helping organisations strengthen their operations, improve brand presentation, and create meaningful engagement with their customers."
+    - "We support a wide range of needs across showroom design, merchandising, and event planning, providing practical expertise that helps businesses implement effective solutions."
+    - "Our clients come from diverse sectors including retail, automotive, and hospitality. This cross-industry experience allows us to adapt our approach to different commercial environments."
+    - "Every client is different. We take time to understand your specific goals and challenges, allowing us to develop solutions that are carefully tailored to your organisation."
+    - "If you would like to explore how we could support your business, we would be pleased to discuss your project."
 
 recommended:
   title: "Services We Offer"
   cards:
-    - image: "/images/showroom-design.jpg"
-      title: "Showroom design"
-      text: "Whether or not you realise it, the appearance and running of your showroom can have an incredible impact on the attractiveness of your products to consumers. Properly outfitted, staffed and assembled, it will promote your brand and entice customers inside; when crafted with indifference, it's likely to attract neither positive nor profitable attention."
-
     - image: "/images/onlinee-merchandising.jpg"
       title: "Merchandising"
-      text: "Our experienced team have another string to add to their bow, merchandising. Helping with everything from the importation of goods to warehousing, creating an online shop, and digital marketing, we can transform your online presence to boost remote sales and bolster your profits. Want to see what it’s all about, you can find examples of our work on our client's website."
+      text: "Our merchandising services help businesses improve product presentation across both physical and digital channels. From display strategy to online retail support, we help brands increase visibility and support sales performance."
 
     - image: "/images/event-planning.jpg"
       title: "Event planning"
-      text: "To complement our other services, CMM Business also offers event planning. Experienced in handling tasks such as site selection, on-site management, registration, specialist website design, exhibit hall management, and event evaluation, we can take care of every aspect of the occasion for you, to ensure satisfied guests and a legacy that will benefit."
+      text: "We provide comprehensive event planning support, including venue selection, event logistics, registration management, and exhibition coordination. Our goal is to deliver well-organised events that strengthen brand engagement and professional relationships."
+
+    - image: "/images/showroom-design.jpg"
+      title: "Showroom design"
+      text: "The design and operation of a showroom strongly influence how customers perceive your products. We create showroom environments that present products clearly, guide customer movement naturally, and strengthen brand identity."

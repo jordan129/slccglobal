@@ -1,6 +1,6 @@
 ---
 title: "Showroom design"
-description: "High-performing showroom design that strengthens brand perception and improves customer flow."
+description: "Strategic showroom design that strengthens brand perception and improves the customer journey."
 layout: "service"
 hero:
   kicker: "Service"
@@ -8,19 +8,19 @@ hero:
 sections:
   - heading: "What we do"
     paragraphs:
-      - "We design and refine showroom environments so that customers can understand your product range quickly and move through the space naturally."
-      - "We align layout, lighting, fixtures, and signage with your brand identity, ensuring the experience feels coherent and premium."
-      - "We prioritise practical operations as well as aesthetics, so the space works for both customers and your team."
+      - "We design and optimise showroom environments so customers can quickly understand your product range and navigate the space intuitively."
+      - "We integrate layout, lighting, fixtures, and signage with your brand identity to create a coherent and high-quality experience."
+      - "Our approach balances visual impact with operational practicality, ensuring the space works effectively for both customers and staff."
   - heading: "How we work"
     paragraphs:
-      - "We begin with a short discovery process to understand your products, customer journey, and commercial priorities."
-      - "We propose a clear concept and layout plan, then iterate with you to ensure the solution matches your expectations and constraints."
-      - "We support implementation with detailed specifications and recommendations to help you deliver consistently."
+      - "We begin with a focused discovery process to understand your products, target customers, and commercial objectives."
+      - "Based on this insight, we develop a clear design concept and layout plan, refining it with you to meet practical and spatial constraints."
+      - "We support implementation with structured specifications and practical recommendations to ensure consistent execution."
   - heading: "What you get"
     paragraphs:
-      - "A showroom design that strengthens product storytelling and reduces friction in the customer journey."
-      - "A practical and maintainable layout that supports daily operation and staff efficiency."
-      - "A clear set of deliverables you can use for internal alignment and external suppliers."
+      - "A showroom environment that strengthens product presentation and brand storytelling."
+      - "A clear and intuitive layout that improves customer flow and browsing experience."
+      - "Practical design documentation that supports coordination with internal teams and external suppliers."
 gallery:
   - "/images/services/showroom-design/showroom-design1.jpg"
   - "/images/services/showroom-design/showroom-design2.jpg"

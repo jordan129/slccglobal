@@ -1,6 +1,6 @@
-baseURL: "https://cmmbusiness.com/"
+baseURL: "https://slccglobal.co.uk/"
 languageCode: "en-gb"
-title: "CMM Business"
+title: "SLCC Global"
 disableKinds: ["taxonomy", "term"]
 enableRobotsTXT: true
 
@@ -13,8 +13,8 @@ params:
   addressCountry: "GB"
   hours: ""
   social:
-    instagram: "https://cmmbusiness.com/"
-    facebook: "https://cmmbusiness.com/"
+    instagram: "https://slccglobal.co.uk/"
+    facebook: "https://slccglobal.co.uk/"
 
 sitemap:
   changefreq: weekly

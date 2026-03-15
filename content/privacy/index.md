@@ -1,15 +1,15 @@
 ---
 page_kind: legal
-title: "Privacy Policy | CMM Business"
-description: "Learn how CMM Business collects, uses, and protects personal data when you visit our website or contact us, in line with UK data protection law."
+title: "Privacy Policy | SLCC Global"
+description: "Learn how SLCC Global collects, uses, and protects personal data when you visit our website or contact us, in line with UK data protection law."
 lastUpdated: "2026-01-10"
 ---
 
-This privacy policy explains how **CMM Business** (“We”, “Us”, “Our”) collects, uses, and protects personal data when you visit our website or contact us regarding our consultancy services.
+This privacy policy explains how **SLCC Global** (“We”, “Us”, “Our”) collects, uses, and protects personal data when you visit our website or contact us regarding our consultancy services.
 
 ## Who we are
 
-**Data controller:** CMM Business  
+**Data controller:** SLCC Global  
 **Address:** 12 John Prince’s Street, London, W1G 0JR  
 **Contact:** Info@cmmbusiness.com | 020 7438 2026
 
@@ -59,7 +59,7 @@ You have rights under UK data protection law, including access, correction, dele
 
 ## Contact
 
-CMM Business  
+SLCC Global  
 12 John Prince’s Street, London, W1G 0JR  
 Info@cmmbusiness.com  
 020 7438 2026

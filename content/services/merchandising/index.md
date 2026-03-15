@@ -1,6 +1,6 @@
 ---
 title: "Merchandising"
-description: "High-performing showroom design that strengthens brand perception and improves customer flow."
+description: "Effective merchandising strategies that strengthen product presentation and improve the retail experience."
 layout: "service"
 hero:
   kicker: "Service"
@@ -8,19 +8,19 @@ hero:
 sections:
   - heading: "What we do"
     paragraphs:
-      - "We design and refine showroom environments so that customers can understand your product range quickly and move through the space naturally."
-      - "We align layout, lighting, fixtures, and signage with your brand identity, ensuring the experience feels coherent and premium."
-      - "We prioritise practical operations as well as aesthetics, so the space works for both customers and your team."
+      - "We develop merchandising strategies that present your products clearly and attractively within the retail environment."
+      - "We align product placement, display structures, lighting, and signage with your brand identity so the presentation feels consistent and professional."
+      - "We balance visual impact with operational practicality, ensuring displays are effective while remaining easy for staff to maintain."
   - heading: "How we work"
     paragraphs:
-      - "We begin with a short discovery process to understand your products, customer journey, and commercial priorities."
-      - "We propose a clear concept and layout plan, then iterate with you to ensure the solution matches your expectations and constraints."
-      - "We support implementation with detailed specifications and recommendations to help you deliver consistently."
+      - "We begin with a short discovery process to understand your product range, customer behaviour, and retail priorities."
+      - "We propose clear merchandising concepts and display guidelines, refining them with you to ensure they suit your space and commercial goals."
+      - "We support implementation with practical recommendations so the merchandising approach can be executed consistently across locations."
   - heading: "What you get"
     paragraphs:
-      - "A showroom design that strengthens product storytelling and reduces friction in the customer journey."
-      - "A practical and maintainable layout that supports daily operation and staff efficiency."
-      - "A clear set of deliverables you can use for internal alignment and external suppliers."
+      - "A merchandising framework that improves product visibility and strengthens brand presentation."
+      - "Display solutions that support customer browsing and encourage purchasing decisions."
+      - "Clear guidelines that your team and retail partners can apply consistently."
 gallery:
   - "/images/services/merchandising/merchandising1.jpg"
   - "/images/services/merchandising/merchandising2.jpg"

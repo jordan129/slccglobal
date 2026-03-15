@@ -1,6 +1,6 @@
 ---
 title: "Event Planning"
-description: "High-performing showroom design that strengthens brand perception and improves customer flow."
+description: "Professional event planning that strengthens brand presence and creates engaging experiences."
 layout: "service"
 hero:
   kicker: "Service"
@@ -8,19 +8,19 @@ hero:
 sections:
   - heading: "What we do"
     paragraphs:
-      - "We design and refine showroom environments so that customers can understand your product range quickly and move through the space naturally."
-      - "We align layout, lighting, fixtures, and signage with your brand identity, ensuring the experience feels coherent and premium."
-      - "We prioritise practical operations as well as aesthetics, so the space works for both customers and your team."
+      - "We plan and design event experiences that allow audiences to engage with your brand and products in a clear and memorable way."
+      - "We align event layout, visual elements, lighting, and signage with your brand identity so the overall experience feels coherent and professional."
+      - "We focus on both presentation and practical execution, ensuring the event works smoothly for guests, staff, and partners."
   - heading: "How we work"
     paragraphs:
-      - "We begin with a short discovery process to understand your products, customer journey, and commercial priorities."
-      - "We propose a clear concept and layout plan, then iterate with you to ensure the solution matches your expectations and constraints."
-      - "We support implementation with detailed specifications and recommendations to help you deliver consistently."
+      - "We begin with a short discovery process to understand your objectives, audience, and event context."
+      - "Based on this, we develop a clear concept and planning framework, and refine it with you to ensure it fits your expectations and constraints."
+      - "We support the preparation process with structured planning and coordination recommendations to help the event run efficiently."
   - heading: "What you get"
     paragraphs:
-      - "A showroom design that strengthens product storytelling and reduces friction in the customer journey."
-      - "A practical and maintainable layout that supports daily operation and staff efficiency."
-      - "A clear set of deliverables you can use for internal alignment and external suppliers."
+      - "A well-structured event plan that strengthens brand communication and audience engagement."
+      - "A practical framework that supports smooth execution on the day of the event."
+      - "Clear planning materials and guidance that can be used by your internal team and external partners."
 gallery:
   - "/images/services/event-planning/event-planning1.jpg"
   - "/images/services/event-planning/event-planning2.jpg"
