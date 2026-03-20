@@ -1,6 +1,6 @@
 ---
 page_kind: gallery
-title: "A Showcase of a Business Event We Designed"
+title: "Showcase of Merchandising Products and Business Event We Served"
 description: "Explore our project."
 slug: "gallery"
 type: "gallery"

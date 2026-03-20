@@ -7,28 +7,26 @@ slider:
   interval_ms: 4000
 
 banner:
-  title: "SLCC Global — Specialists in Business Consultancy"
-  lead: "SLCC Global provides a focused range of consultancy services designed to strengthen brand presence and support sustainable business growth. Our core areas of expertise include showroom design, merchandising, and event planning. Through a combination of strategic insight and practical implementation, we help organisations create environments and experiences that present their products effectively and engage their customers."
+  title: "SLCC Global — Specialists in Branded Merchandise & Business Solutions"
+  lead: "SLCC Global provides tailored solutions focused on branded merchandise, helping businesses strengthen brand identity through high-quality, customised products. Our core offering centres on the design, sourcing, and delivery of promotional items including apparel, bags, accessories, and corporate gifts.
+Alongside merchandise, we support clients with showroom design and event planning, ensuring that products, spaces, and experiences work together to maximise brand impact and customer engagement."
   image: /images/hero2.png
 
 about_us:
   title: "About Us"
   image: "/images/business_consultancy.jpg"
   paragraphs:
-    - "SLCC Global is a business consultancy specialising in showroom design, merchandising, and event planning. We work with companies across multiple industries to help them present their products and brands more effectively."
-    - "Our team combines practical industry experience with strategic thinking to understand the specific needs of each client and develop solutions that support their commercial objectives."
+    - "SLCC Global is a consultancy with a strong focus on branded merchandise and product-based brand solutions. We specialise in helping organisations translate their brand identity into physical products that can be used, worn, and shared."
+    - "Our team combines industry experience in sourcing, design, and production with strategic thinking, enabling us to deliver practical and commercially viable solutions."
     - "We believe that successful projects are built on collaboration. By working closely with our clients throughout the process, we ensure that each solution reflects both operational realities and long-term business goals."
-    - "Our approach is focused on delivering practical, well-structured outcomes that create measurable value for the organisations we work with."
-    - "With a growing portfolio of satisfied clients, we continue to support businesses seeking to strengthen their brand presence and customer experience."
+    - "We work closely with clients to ensure that every product and project aligns with both brand positioning and operational needs."
 
 clients:
   title: "Our Clients"
   paragraphs:
-    - "At SLCC Global, our clients are at the centre of everything we do. Our work focuses on helping organisations strengthen their operations, improve brand presentation, and create meaningful engagement with their customers."
-    - "We support a wide range of needs across showroom design, merchandising, and event planning, providing practical expertise that helps businesses implement effective solutions."
-    - "Our clients come from diverse sectors including retail, automotive, and hospitality. This cross-industry experience allows us to adapt our approach to different commercial environments."
-    - "Every client is different. We take time to understand your specific goals and challenges, allowing us to develop solutions that are carefully tailored to your organisation."
-    - "If you would like to explore how we could support your business, we would be pleased to discuss your project."
+    - "Our clients are at the centre of our work. We support organisations in strengthening brand presence through a combination of consultancy and high-quality branded merchandise, tailored to their specific objectives and operational needs"
+    - "We work across sectors including retail, automotive, and hospitality, adapting our solutions to different commercial environments. This enables us to deliver merchandise and brand strategies that are practical, relevant, and effective."
+    - "In addition to consultancy, we provide customised products that support marketing, events, and daily operations. Our focus is on delivering tangible, consistent outcomes that enhance brand visibility across real-world settings."
 
 recommended:
   title: "Services We Offer"
