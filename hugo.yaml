@@ -6,10 +6,10 @@ enableRobotsTXT: true
 
 params:
   phone: "02078465808"
-  address: "12 John Prince's Street, London, W1G 0JR"
-  streetAddress: "12 John Prince's Street"
+  address: "24 Ryeland Boulevard, Wandsworth, London SW18 1UN"
+  streetAddress: "24 Ryeland Boulevard"
   addressLocality: "London"
-  postalCode: "W1G 0JR"
+  postalCode: "SW18 1UN"
   addressCountry: "GB"
   hours: ""
   social:
