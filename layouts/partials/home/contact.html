@@ -18,12 +18,14 @@
           </div>
         </div>
 
+        {{ with $c.phone }}
         <div class="sm-contact-row">
           <div class="sm-contact-label">Phone</div>
           <div class="sm-contact-value">
-            <a href="tel:{{ $c.phone }}">{{ $c.phone_display }}</a>
+            <a href="tel:{{ . }}">{{ $c.phone_display | default . }}</a>
           </div>
         </div>
+        {{ end }}
 
         <div class="sm-contact-row">
           <div class="sm-contact-label">Email</div>
