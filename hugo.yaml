@@ -8,7 +8,7 @@ params:
   phone:
   address: "24 Ryeland Boulevard, Wandsworth, London SW18 1UN"
   streetAddress: "24 Ryeland Boulevard"
-  email:info@slccglobal.co.uk
+  email: "info@slccglobal.co.uk"
   addressLocality: "London"
   postalCode: "SW18 1UN"
   addressCountry: "GB"
