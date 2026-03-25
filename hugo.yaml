@@ -5,7 +5,7 @@ disableKinds: ["taxonomy", "term"]
 enableRobotsTXT: true
 
 params:
-  phone: "02078465808"
+  phone:
   address: "24 Ryeland Boulevard, Wandsworth, London SW18 1UN"
   streetAddress: "24 Ryeland Boulevard"
   addressLocality: "London"
